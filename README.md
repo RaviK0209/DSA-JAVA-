@@ -1,13 +1,33 @@
+# Java DSA Problem Solutions 🚀  
 
-# custom selection sort algorithm
+Welcome to the **Java DSA Problem Solutions** repository! This repository is dedicated to solving and committing solutions for various Data Structures and Algorithms (DSA) problems.  
 
-->A string is taken as input in which we have to perform custom selection sort algorithm such that Capital letters appear first, then spaces and then Small letters.
+The problems are sourced from platforms like **LeetCode** and other coding platforms, categorized by difficulty levels (**Easy**, **Medium**, **Hard**) and other specific sources.  
 
--> while managing these preferences alphabetical order should be maintained.
+Each solution is implemented in **Java**, with the **problem name mentioned in the file name** for easy identification.  
 
-->for eg:- input-"ArfsDE TYhv  RET"  ||   output-"ADEERTTY   fhrsv" 
+---
 
-->CustomSelectionSort is done using StringBuilder. 
+### Folder Details  
 
-->CustomSelectionSort2 is done using the whole string in a single line.
+- **Easy/**: Contains solutions for problems categorized as **Easy**.  
+- **Medium/**: Contains solutions for problems categorized as **Medium**.  
+- **Hard/**: Contains solutions for problems categorized as **Hard**.  
+- **OtherPlatforms/**: Contains solutions for problems from other platforms apart from LeetCode. 
+
+Each Java file is named after the problem it solves for easier lookup.  
+
+---
+
+## ✨ Features  
+
+- **Wide Coverage**: Solutions range from beginner-friendly problems to complex challenges.  
+- **Clean Code**: Solutions are modular, readable, and follow good coding practices.  
+- **Problem Identification**: Problem names are mentioned in the file names for easy recognition.  
+- **Platform Diversity**: Includes problems from LeetCode and other platforms.  
+
+
+
+
+
 
