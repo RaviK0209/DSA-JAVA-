@@ -20,8 +20,7 @@ Each Java file is named after the problem it solves for easier lookup.
 ---
 
 ## ✨ Features  
-
-- **Wide Coverage**: Solutions range from beginner-friendly problems to complex challenges.  
+ 
 - **Clean Code**: Solutions are modular, readable, and follow good coding practices.  
 - **Problem Identification**: Problem names are mentioned in the file names for easy recognition.  
 - **Platform Diversity**: Includes problems from LeetCode and other platforms.  
