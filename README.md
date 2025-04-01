@@ -15,7 +15,7 @@ Each solution is implemented in **Java**, with the **problem name mentioned in t
 - **Hard/**: Contains solutions for problems categorized as **Hard**.  
 - **OtherPlatforms/**: Contains solutions for problems from other platforms apart from LeetCode. 
 
-Each Java file is named after the problem it solves for easier lookup.  
+  
 
 ---
 
