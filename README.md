@@ -21,7 +21,7 @@ Each solution is implemented in **Java**, with the **problem name mentioned in t
 
 ## ✨ Features  
  
-- **Clean Code**: Solutions are modular, readable, and follow good coding practices.  
+- **Clean Code**: Solutions are modular, readable, and follow good coding practice.  
 - **Problem Identification**: Problem names are mentioned in the file names for easy recognition.  
 - **Platform Diversity**: Includes problems from LeetCode and other platforms.  
 
