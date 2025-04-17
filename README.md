@@ -4,7 +4,7 @@ Welcome to the **Java DSA Problem Solutions** repository! This repository is ded
 
 The problems are sourced from platforms like **LeetCode** and other coding platforms, categorized by difficulty levels (**Easy**, **Medium**, **Hard**) and other specific sources.  
 
-Each solution is implemented in **Java**, with the **problem name mentioned in the file name** for easy identification.  
+Each solution is implemented in **Java**, with the **problem name mentioned in the file name** for easy identification  
 
 ---
 
