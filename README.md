@@ -1,6 +1,6 @@
 # Java DSA Problem Solutions 🚀  
 
-Welcome to the **Java DSA Problem Solutions** repository! This repository is dedicated to solving and committing solutions for various Data Structures and Algorithms (DSA) problems.  
+Welcome to  **Java DSA Problem Solutions** repository! This repository is dedicated to solving and committing solutions for various Data Structures and Algorithms (DSA) problems.  
 
 The problems are sourced from platforms like **LeetCode** and other coding platforms, categorized by difficulty levels (**Easy**, **Medium**, **Hard**) and other specific sources.  
 
