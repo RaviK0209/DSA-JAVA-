@@ -8,7 +8,7 @@ Each solution is implemented in **Java**, with the **problem name mentioned in t
 
 ---
 
-### Folder Details:-
+### Folder Details:
 
 - **Easy/**: Contains solutions for problems categorized as **Easy**.  
 - **Medium/**: Contains solutions for problems categorized as **Medium**.  
